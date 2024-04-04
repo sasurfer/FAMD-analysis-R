@@ -1,0 +1,12 @@
+CDR_name,commercial,opensource,rest_api,another_api,gui,api_n,gui_n,aql,sql,json_xml,flat_struct,opt_wt,openehrextr_fhir,add_openehr,add_others
+ehrbase,n,y,y,y,y,4,0,y,n,2,2,2,1,1,1
+better,y,n,y,y,y,4,3,y,n,2,2,2,1,2,4
+base24,y,n,y,y,y,4,4,n,n,2,0,1,1,1,2
+cabo,n,y,y,y,y,2.91,3,n,n,2,0,1,1,0,0
+arenaehr,y,n,y,n,y,4,0,y,n,2,1,2,1,2,2
+eweave,y,n,n,n,y,0,3,y,y,0,0,0,0,1,2
+ehrcare,y,n,y,y,n,3.33,0,y,n,1,1,1,0,1,1
+clever,y,n,y,y,y,4,3,n,y,0,1,1,1,2,3
+ehrdb,y,n,y,y,y,4,3,y,n,2,2,1,1,1,3
+rhp,y,n,y,y,y,4,3,n,y,0,1,1,0,2,4
+ehrn,y,n,y,n,y,3,2,y,y,0,1,1,1,0,1
